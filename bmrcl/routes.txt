@@ -1,0 +1,3 @@
+route_long_name,route_short_name,agency_id,route_desc,route_type,route_id,route_color,route_text_color
+Nagasandra - Silk Institute,Green,BMRCL,"Green Line passes through Nagasandra, Majestic and Silk Institute",1,GREEN,009933,FFFFFF
+Whitefield (Kadugodi) - Challaghatta,Purple,BMRCL,"Purple Line passes through Whitefield (Kadugodi), Majestic and Challaghatta",1,PURPLE,8C2877,FFFFFF

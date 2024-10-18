@@ -1,0 +1,2 @@
+monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,service_id
+1,1,1,1,1,1,1,20240719,20250719,WD

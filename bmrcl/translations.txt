@@ -1,0 +1,66 @@
+table_name,field_name,record_id,language,translation
+stops,stop_name,WHTM,kn,ವೈಟ್‌ಫೀಲ್ಡ್ (ಕಾಡುಗೋಡಿ)
+stops,stop_name,UWVL,kn,ಹೋಪ್ ಫಾರ್ಮ್ ಚನ್ನಸಂದ್ರ
+stops,stop_name,ITPL,kn,ಪಟ್ಟಂದೂರು ಅಗ್ರಹಾರ
+stops,stop_name,SSHP,kn,ಶ್ರೀ ಸತ್ಯ ಸಾಯಿ ಆಸ್ಪತ್ರೆ
+stops,stop_name,VDHP,kn,ನಲ್ಲೂರಹಳ್ಳಿ
+stops,stop_name,KDNH,kn,ಕುಂದಲಹಳ್ಳಿ
+stops,stop_name,VWIA,kn,ಸೀತಾರಾಮ ಪಾಳ್ಯ
+stops,stop_name,DKIA,kn,ಹೂಡಿ
+stops,stop_name,GDCP,kn,ಗರುಡಾಚಾರ್ ಪಾಳ್ಯ
+stops,stop_name,MDVP,kn,ಸಿಂಗಯ್ಯನಪಾಳ್ಯ
+stops,stop_name,KRAM,kn,ಕೃಷ್ಣರಾಜಪುರ (ಕೆ.ಆರ್.ಪುರ)
+stops,stop_name,JTPM,kn,ಬೆನ್ನಿಗಾನಹಳ್ಳಿ
+stops,stop_name,DSH,kn,ದಾಸರಹಳ್ಳಿ
+stops,stop_name,JLHL,kn,ಜಾಲಹಳ್ಳಿ
+stops,stop_name,SPRU,kn,ಶ್ರೀರಾಮಪುರ
+stops,stop_name,BYPH,kn,ಬೈಯ್ಯಪ್ಪನಹಳ್ಳಿ ಮೆಟ್ರೋ ನಿಲ್ದಾಣ
+stops,stop_name,SVRD,kn,ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ರಸ್ತೆ
+stops,stop_name,IDN,kn,ಇಂದಿರಾನಗರ
+stops,stop_name,HLRU,kn,ಹಲಸೂರು
+stops,stop_name,TTY,kn,ಟ್ರಿನಿಟಿ ಮೆಟ್ರೊ ನಿಲ್ದಾಣ
+stops,stop_name,MAGR,kn,ಮಹಾತ್ಮ ಗಾಂಧಿ ರಸ್ತೆ
+stops,stop_name,CBPK,kn,ಕಬ್ಬನ್ ಪಾರ್ಕ್
+stops,stop_name,VDSA,kn,"ಡಾ.ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್ ಠಾಣೆ, ವಿಧಾನಸೌಧ"
+stops,stop_name,VSWA,kn,ಸರ್ ಎಂ ವಿಶ್ವೇಶ್ವರಯ್ಯ - ಸೆಂಟ್ರಲ್ ಕಾಲೇಜು
+stops,stop_name,KGWA,kn,"ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡ ನಿಲ್ದಾಣ, ಮೆಜೆಸ್ಟಿಕ್"
+stops,stop_name,BRCS,kn,ಕ್ರಾಂತಿವೀರ ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ
+stops,stop_name,MIRD,kn,ಮಾಗಡಿ ರಸ್ತೆ ಮೆಟ್ರೊ
+stops,stop_name,HSLI,kn,ಶ್ರೀ ಬಾಲಗಂಗಾಧರನಾಥ ಮೆಟ್ರೋ
+stops,stop_name,VJN,kn,ವಿಜಯನಗರ
+stops,stop_name,AGPP,kn,ಅತ್ತಿಗುಪ್ಪೆ ಮೆಟ್ರೋ
+stops,stop_name,DJNR,kn,ದೀಪಾಂಜಲಿ ನಗರ
+stops,stop_name,MYRD,kn,ಮೈಸೂರು ರಸ್ತೆ ಮೆಟ್ರೋ
+stops,stop_name,SPGD,kn,ಮಂತ್ರಿ ಸ್ಕ್ವೇರ್ ಸಂಪಿಗೆ ರಸ್ತೆ
+stops,stop_name,KVPR,kn,ಮಹಾಕವಿ ಕುವೆಂಪು ರಸ್ತೆ
+stops,stop_name,RJNR,kn,ರಾಜಾಜಿನಗರ
+stops,stop_name,MHLI,kn,ಮಹಾಲಕ್ಷ್ಮಿ
+stops,stop_name,SSFY,kn,ಸಾಂಡಲ್ ಸೋಪ್ ಕಾರ್ಖಾನೆ
+stops,stop_name,YPI,kn,ಗೊರಗುಂಟೆಪಾಳ್ಯ
+stops,stop_name,PEYA,kn,ಪೀಣ್ಯ
+stops,stop_name,PYID,kn,ಪೀಣ್ಯ ಇಂಡಸ್ಟ್ರಿ
+stops,stop_name,PUTH,kn,ಯಲಚೇನಹಳ್ಳಿ
+stops,stop_name,JPN,kn,ಜೆಪಿ ನಗರ
+stops,stop_name,BSNK,kn,ಬನಶಂಕರಿ
+stops,stop_name,RVR,kn,ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾಲಯ ರಸ್ತೆ
+stops,stop_name,JYN,kn,ಜಯನಗರ
+stops,stop_name,SECE,kn,ತಿ.ನಂ.ಶ್ರೀ ವೃತ್ತ
+stops,stop_name,LBGH,kn,ಲಾಲ್ ಬಾಗ್
+stops,stop_name,NLC,kn,ನ್ಯಾಶನಲ್ ಕಾಲೇಜು
+stops,stop_name,KRMT,kn,ಕೃಷ್ಣರಾಜೇಂದ್ರ ಮಾರುಕಟ್ಟೆ
+stops,stop_name,CKPE,kn,ಚಿಕ್ಕಪೇಟೆ
+stops,stop_name,BGUC,kn,ಜ್ಞಾನ ಭಾರತಿ
+stops,stop_name,NYHM,kn,ನಾಯಂಡಹಳ್ಳಿ
+stops,stop_name,MLSD,kn,ಕೆಂಗೇರಿ ಬಸ್ ಟರ್ಮಿನಲ್
+stops,stop_name,KGIT,kn,ಕೆಂಗೇರಿ
+stops,stop_name,RRRN,kn,ರಾಜರಾಜೇಶ್ವರಿ ನಗರ
+stops,stop_name,PATG,kn,ಪಟ್ಟಣಗೆರೆ
+stops,stop_name,CLGA,kn,ಚಲ್ಲಘಟ್ಟ
+stops,stop_name,APTS,kn,ರೇಷ್ಮೆ ಸಂಸ್ಥೆ
+stops,stop_name,TGTP,kn,ತಲಘಟ್ಟಪುರ
+stops,stop_name,VJRH,kn,ವಾಜರಹಳ್ಳಿ
+stops,stop_name,KLPK,kn,ದೊಡ್ಡಕಲ್ಲಸಂದ್ರ
+stops,stop_name,APRC,kn,ಕೋಣನಕುಂಟೆ ಕ್ರಾಸ್
+stops,stop_name,NGSA,kn,ನಾಗಸಂದ್ರ
+stops,stop_name,YPM,kn,ಯಶವಂತಪುರ
+stops,stop_name,KDGD,kn,ಕಾಡುಗೋಡಿ ಟ್ರೀ ಪಾರ್ಕ್

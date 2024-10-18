@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Bengaluru Metropolitan Transport Corporation (BMTC),https://mybmtc.karnataka.gov.in/english,en,20240719,20250719,20240719
